@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
-  "homepage": "https://maxexc.github.io/test_filmateka",
+  "homepage": "https://maxexc.github.io/filmateka_test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /test_filmateka/"
+    "build": "parcel build src/*.html --public-url /filmateka_test/"
   },
   "repository": {
     "type": "git",
